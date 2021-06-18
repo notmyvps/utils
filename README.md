@@ -1,2 +1,6 @@
 # utils
- 
+
+Just some random stuff.... 
+
+You Probably don't want any of this crap, but if you do... 
+USE AT YOUR OWN RISK!!!!
