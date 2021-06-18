@@ -39,4 +39,5 @@ alias pscpu='ps auxf | sort -nr -k 3'
 alias pscpu10='ps auxf | sort -nr -k 3 | head -10'
 
 ## Profile updates
-alias reload="source ~/.bash_profile"
+alias reload=". ~/.bashrc"
+alias updateprofile="curl https://raw.githubusercontent.com/notmyvps/utils/main/.bashrc > ~/.bashrc && reload"
