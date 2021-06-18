@@ -151,6 +151,7 @@ alias sl='ls'
 alias meminfo='free -m -l -t'
 alias s='less'
 alias untar='tar -zxvf'
+alias logsize='sudo du -hc /var/log | grep total'
 
 ## get top process eating memory
 alias psmem='ps auxf | sort -nr -k 4'
